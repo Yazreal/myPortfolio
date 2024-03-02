@@ -8,7 +8,7 @@ import {
 import { FiMail } from "react-icons/fi";
 
 const siteConfig = {
-  copyright: `Copyright © ${new Date().getFullYear()} Muhammad Ahmad. All Rights Reserved.`,
+  copyright: `Copyright © ${new Date().getFullYear()} Yazan Madarati All Rights Reserved.`,
   author: {
     name: "Muhammad Ahmad",
     accounts: [
@@ -43,8 +43,8 @@ const siteConfig = {
         icon: <FaQuora />
       },
       {
-        url: "mailto:muhammad.ahmad8043@gmail.com",
-        label: "Mail ahmad",
+        url: "mailto:yazanmadarati@gmail.com",
+        label: "Mail Yazan",
         type: "gray",
         icon: <FiMail />
       }
